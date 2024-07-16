@@ -1,4 +1,5 @@
 
+![6695b4890b4c31721087113](https://github.com/user-attachments/assets/9e4298b6-1882-4e68-8544-3ec5506bd973)
 
 Clicker Mini App for Telegram - Copy Tapswap, Notcoin, Hamster
 We create Clicker games in Mini App Telegram.
